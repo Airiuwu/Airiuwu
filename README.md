@@ -1,7 +1,7 @@
 ## 👋 &nbsp;Hey there! I'm Jacob
 
 👴 &nbsp;I am 19 years old!\
-💡 &nbsp;I like to create software for server side applications!\
+💡 &nbsp;I like to create software for backend implementation!\
 ✍️ &nbsp;In my free time, I like to do code reviews as well as help others learn, along with myself!\
 💬 &nbsp;Feel free to reach out to me for any opportunities/carrer offers, or even if you want to just chat.\
 ✉️ &nbsp;You can email me at adobe@adowobe.xyz! I'll try to respond as soon as I can.
